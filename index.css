@@ -1,0 +1,88 @@
+body {
+    background-image: url(blue-mesh-abstract-gradient--backgrounds-wallpapers.jpg);
+}
+h2.A,h2.E,h2.G {
+    background-color: brown;   
+    border-style: 5px dashed dotted solid inset #ff35;
+    margin-left: 300px;
+    margin-right: 450px;
+    border-radius: 40px;
+}
+h2.C,h2.F {
+    background-color: chartreuse;
+    border-style: 5px dotted solid double inset rgb(0,200,200);
+    margin: 20px;
+    border-radius: 40%;
+    text-align: center;
+}
+h2.B, h2.D {
+    background-color: cyan;
+    border-style:5px outset double solid ridge WHITE ;
+    margin-left: 100px;
+    margin-right: 200px;
+    border-radius: 10%;
+}
+h1 {
+    text-align: justify;
+    text-decoration: double;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    text-shadow: #ff35;
+    text-emphasis-color: blues;
+    padding: 30px;
+    object-position: 50px;
+}
+img {
+    position: relative;
+    }
+a:link,a:visited {
+    background-color: red;
+    color:azure;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left:  550px;
+    margin-right: 500px;
+    border-radius: 50px;
+    border :12px ridge green;
+}
+a:hover,a:active {
+    background-color: blue;
+}
+ol {
+    background-color: white;
+    padding: 30px;
+    margin: 100px;
+}
+ul {
+    background-color: antiquewhite;
+    padding: 30px;
+    margin: 100px;
+}
+ .days {
+    text-align: center;
+    text-decoration: solid;
+    text-transform:uppercase;
+    background-color:#8b0000;
+    border: 10px groove blue;
+    color: #00ff7f;
+    display:inline;
+}
+ul li,ul h1,ul h3,ul h4,ul h5,ul h6,ul h2 {
+    text-align: center;
+    text-decoration: red;
+    background-color: #00ff7f;
+    border:10px solid tomato;
+    display:inline-block;
+}
+.planet  {
+    text-align: center;
+    text-decoration: solid;
+    text-transform:uppercase;
+    background-color:#8b0000;
+    border: 10px groove blue;
+    color: #00ff7f;
+    display:block;
+}
+
